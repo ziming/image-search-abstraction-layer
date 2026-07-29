@@ -16,6 +16,6 @@
     "dotenv": "^4.0.0",
     "express": "^4.22.2",
     "google-images": "^2.1.0",
-    "mongoose": "^8.22.1"
+    "mongoose": "^8.24.1"
   }
 }
